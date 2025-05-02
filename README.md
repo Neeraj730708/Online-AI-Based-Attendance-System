@@ -1,1 +1,2 @@
 # Online-AI-Based-Attendance-System
+This project is an AI-powered Smart Attendance System that leverages face recognition to automate attendance marking. It ensures efficient tracking, prevents duplicate entries within an hour, and provides an attendance analysis report. The analysis uses A algorithm* to determine how many more days a student needs to attend to reach the average attendance percentage.
